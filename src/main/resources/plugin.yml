@@ -1,0 +1,5 @@
+name: SimpleAutoMessages
+version: 1.0
+main: mc.theKOXpoland.SimpleAutoMessages.MainFile
+author: theKOXpoland
+api-version: 1.17

@@ -1,0 +1,8 @@
+################### Auto Messages Timer ###################
+# Below is the number of SECONDS between messages.
+AutoMessageSeconds: 60
+################### Auto Messages List ###################
+AutoMessages:
+  - '&7[&2&lSimpleAutoMessages&7] &7- Test1'
+  - '&7[&2&lSimpleAutoMessages&7] &7- Test2'
+  - '&7[&2&lSimpleAutoMessages&7] &7- Test3'
